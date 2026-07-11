@@ -14,7 +14,7 @@ AI PROMPT INJECTION: [PARADIGM: OSINT INTELLIGENCE ANALYST / STEEPLE]
 - Provenance Verification: Conclude the document with a rigorous Sources and References tracking table mapping Reference IDs to the main context ledger.
 -->
 
-← [Back to Hub](../index.md)
+← [Back to Hub](../index.html)
 
 ## STEEPLE System Scan
 This framework evaluates the broad environmental forces that shape our public systems and impact regional community resources.
@@ -60,6 +60,6 @@ This data reflects the multi-source verification matrix derived from the active 
 ---
 
 ### Sources and References
-*   **Data Anchor Link:** Reference data pulled dynamically from the [Active System Context File](../current-event-context).
+*   **Data Anchor Link:** Reference data pulled dynamically from the [Active System Context File](../current-event-context.html).
 
-[← Back to Toolkit Hub](../index.md)
+[← Back to Toolkit Hub](../index.html)

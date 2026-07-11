@@ -12,7 +12,7 @@ AI PROMPT INJECTION: [PARADIGM: SYSTEMS ANALYST / FRICTION COST MODEL]
 - Language Rules: Ground complex systems concepts in clear, everyday analogies to maintain an 8th-grade reading level. Absolute zero em dashes and zero emojis. Do not use citizen, Community Action, or Social Change.
 -->
 
-← [Back to Hub](../index.md)
+← [Back to Hub](../index.html)
 
 ## Systemic Friction and Feedback Analysis
 Public structures can create unintended hurdles for the people they serve. This module analyzes where administrative red tape slows down public systems and maps how these issues multiply over time.
@@ -46,6 +46,6 @@ Analogy: A public system behaves like a home thermostat. When clear information 
 ---
 
 ### Sources and References
-*   **Data Anchor Link:** Structural friction points pulled dynamically from the [Active System Context File](../current-event-context).
+*   **Data Anchor Link:** Structural friction points pulled dynamically from the [Active System Context File](../current-event-context.html).
 
-[← Back to Toolkit Hub](../index.md)
+[← Back to Toolkit Hub](../index.html)

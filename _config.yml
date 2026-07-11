@@ -1,7 +1,11 @@
 # Public Systems Toolkit Configuration
-title: The Public Systems Toolkit
-description: A clean, modular framework for open-source systems analysis and policy review.
 theme: jekyll-theme-cayman
+title: Public Systems Toolkit
+description: An independent workspace for local data tracking and systems analysis.
+
+# URL Configuration (Replace with your actual GitHub Pages details)
+url: "https://mmonfils.github.io"
+baseurl: "/public-systems-toolkit"
 
 # Navigation & Build Management
 permalink: /:path/

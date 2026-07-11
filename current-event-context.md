@@ -12,7 +12,7 @@ AI PROMPT INJECTION: [PARADIGM: ARCHITECT CONTEXT ANCHOR]
 - Liability Protection: Do not log names of private individuals, private companies, or non-governmental organizations. Focus on institutional titles and public roles.
 -->
 
-[ Back to Toolkit Home ](/)
+[ Back to Toolkit Hub ](/index.html)
 
 ## Active Event Ingestion Log
 > Use this centralized space to log raw public information. The individual analysis modules in this toolkit use this page as their primary data anchor.
