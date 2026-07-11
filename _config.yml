@@ -1,0 +1,15 @@
+# Public Systems Toolkit Configuration
+title: The Public Systems Toolkit
+description: A clean, modular framework for open-source systems analysis and policy review.
+theme: jekyll-theme-cayman
+
+# Navigation & Build Management
+permalink: /:path/
+markdown: kramdown
+sass:
+  style: :compressed
+
+# Structural Exclusions from Production Build
+exclude:
+  - README.md
+  - .github/
