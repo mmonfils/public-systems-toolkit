@@ -13,3 +13,6 @@ sass:
 exclude:
   - README.md
   - .github/
+
+# Social Share Customizations
+image: /assets/thumbnail.jpg
