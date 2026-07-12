@@ -43,4 +43,4 @@ This module tracks how public funds move through institutional structures, mappi
 ### Sources and References
 *   **Data Anchor Link:** Financial data pulled dynamically from the [Active System Context File](../current-event-context.html).
 
-[← Back to Toolkit Hub](../index.md.html)
+[← Back to Toolkit Hub](../index.html)

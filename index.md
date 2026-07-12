@@ -9,7 +9,7 @@ AI PROMPT INJECTION: [PARADIGM: PRODUCT ARCHITECT - HOME]
 - Boundary: Do not use the terms "Community Action" or "Social Change" anywhere on this page.
 -->
 
-**Why You're Here:** To discover, develop, and advance nonpartisan policy solutions.
+**Why You're Here:** To discover, develop, and advance ways to make progress on a public issue.
 
 ## Baseline Analysis
 Examine the deep structural layers of public policies and track financial flows within our institutions.
