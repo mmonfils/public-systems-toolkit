@@ -19,10 +19,10 @@ This section focuses on the direct human layer of our local neighborhoods. Rathe
 
 ### Analytical Modules
 
-#### [Person-in-Environment Assessment](pie-strengths)
+#### [Person-in-Environment Assessment](pie-strengths.html)
 Examine how systemic barriers interact with household routines, balanced against existing localized strengths and networks.
 
-#### [Cooperative Livelihoods and Solidarity Economics](solidarity-economics)
+#### [Cooperative Livelihoods and Solidarity Economics](solidarity-economics.html)
 Explore non-exploitative, community-centered, economic alternatives and resource-sharing structures that boost resident stability.
 
 ---

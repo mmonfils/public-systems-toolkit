@@ -20,26 +20,26 @@ This platform provides tools for reviewing public systems, evaluating administra
 
 #### [Section A: Baseline Analysis](baseline-analysis/index.html)
 Examine the deep structural layers of public policies and track financial flows within our institutions.
-*   [STEEPLE Environmental Scan](/baseline-analysis/steeple-framework.html)
-*   [OSINT Capital Mapping](/baseline-analysis/osint-money-map.html)
-*   [Administrative Friction Review](/baseline-analysis/friction-cost-theory.html)
+*   [STEEPLE Environmental Scan](baseline-analysis/steeple-framework.html)
+*   [OSINT Capital Mapping](baseline-analysis/osint-money-map.html)
+*   [Administrative Friction Review](baseline-analysis/friction-cost-theory.html)
 
 #### [Section B: Community Impact](community-impact/index.html)
 Evaluate how policies directly impact the daily lives, livelihoods, and resilience of local neighborhoods.
-*   [Person-in-Environment Assessment](/community-impact/pie-strengths.html)
-*   [Cooperative Livelihoods & Solidarity Economics](/community-impact/solidarity-economics.html)
+*   [Person-in-Environment Assessment](community-impact/pie-strengths.html)
+*   [Cooperative Livelihoods & Solidarity Economics](community-impact/solidarity-economics.html)
 
 #### [Section C: Action Paths](action-paths/index.html)
 Explore structural models for local public decision-making and clear communication options.
-*   [Decentralized Governance Systems](/action-paths/democratic-federalism.html)
-*   [Empathetic Communication Frameworks](/action-paths/deep-canvassing-agents.html)
+*   [Decentralized Governance Systems](action-paths/democratic-federalism.html)
+*   [Empathetic Communication Frameworks](action-paths/deep-canvassing-agents.html)
 
 ---
 
 ### Active Tracking Data
 Before reviewing the analytical files, ensure all raw public text and records are updated in our primary data ledger.
 
-*   **View Active Ingestion Ledger:** [Active System Context File](/current-event-context.html)
+*   **View Active Ingestion Ledger:** [Active System Context File](current-event-context.html)
 
 ---
 > *Disclaimer: This platform operates as an independent, non-partisan data repository managed by a private resident for educational and public transparency purposes.*

@@ -19,10 +19,10 @@ This section covers options for community communication and decentralized decisi
 
 ### Deployment Modules
 
-#### [Decentralized Governance Systems](democratic-federalism)
+#### [Decentralized Governance Systems](democratic-federalism.html)
 Examine ways to use local boards, municipal rules, and decentralized methods to keep decision-making close to residents.
 
-#### [Empathetic Communication Frameworks](deep-canvassing-agents)
+#### [Empathetic Communication Frameworks](deep-canvassing-agents.html)
 Structure communication scripts centered on mutual listening, alongside guides for autonomous digital tools and outreach platforms.
 
 ---
