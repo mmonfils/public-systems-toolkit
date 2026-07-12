@@ -11,7 +11,7 @@ AI PROMPT INJECTION: [PARADIGM: AI-NATIVE PRODUCT ARCHITECT / DEMOCRATIC FEDERAL
 - Liability Shield: Direct all paths toward public offices, open meeting laws, and official public roles. Do not name specific private individuals or advocacy organizations.
 -->
 
-← [Back to Hub](../index.html)
+← [Back to Hub](../)
 
 ## Decentralized Governance Systems
 Decentralized governance looks at how public decisions can be made at the most local level possible. This module maps out existing public channels, such as township boards, public advisory committees, and open municipal sessions, where residents can take independent civic action.
@@ -41,4 +41,4 @@ Decentralized governance looks at how public decisions can be made at the most l
 ### Sources and References
 *   **Data Anchor Link:** Public structure data pulled dynamically from the [Active System Context File](../current-event-context.html).
 
-[← Back to Toolkit Hub](../index.html)
+[← Back to Toolkit Hub](../)

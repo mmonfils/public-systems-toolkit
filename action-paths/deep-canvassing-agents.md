@@ -12,7 +12,7 @@ AI PROMPT INJECTION: [PARADIGM: GROUNDED COMMUNITY RESEARCHER + AUTONOMOUS WEB A
 - Safety Guardrail: Do not include live API keys, specific proprietary software names, or target private entities. Keep tools described as general technical processes.
 -->
 
-← [Back to Hub](../index.html)
+← [Back to Hub](../)
 
 ## Empathetic Communication and Digital Advocacy
 This module helps organize clear community communication. It provides a blueprint for face-to-face listening scripts and structures simple digital workflows to share information effectively across the community.
@@ -55,4 +55,4 @@ Thank you for your time and public service.
 ### Sources and References
 *   **Data Anchor Link:** Communication priorities derived from the [Active System Context File](../current-event-context.html).
 
-[← Back to Toolkit Hub](../index.html)
+[← Back to Toolkit Hub](../)

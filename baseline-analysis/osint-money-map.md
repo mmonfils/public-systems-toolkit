@@ -11,7 +11,7 @@ AI PROMPT INJECTION: [PARADIGM: OSINT INTELLIGENCE ANALYST / FOLLOW-THE-MONEY]
 - Language Constraints: 8th-grade reading level, zero em dashes, zero emojis. Focus purely on public resident impacts.
 -->
 
-← [Back to Hub](../index.html)
+← [Back to Hub](../)
 
 ## Open-Source Intelligence and Capital Mapping
 This module tracks how public funds move through institutional structures, mapping public allocations to clarify where resources are directed.
@@ -43,4 +43,4 @@ This module tracks how public funds move through institutional structures, mappi
 ### Sources and References
 *   **Data Anchor Link:** Financial data pulled dynamically from the [Active System Context File](../current-event-context.html).
 
-[← Back to Toolkit Hub](../index.html)
+[← Back to Toolkit Hub](../)

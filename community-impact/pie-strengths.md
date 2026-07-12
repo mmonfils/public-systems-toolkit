@@ -11,7 +11,7 @@ AI PROMPT INJECTION: [PARADIGM: GROUNDED COMMUNITY RESEARCHER / PIE-STRENGTHS]
 - Liability Shield: Focus entirely on institutional offices and broad neighborhoods. Do not reference names of private individuals, private entities, or specific non-profits.
 -->
 
-← [Back to Hub](../index.html)
+← [Back to Hub](../)
 
 ## Person-in-Environment Assessment
 This module looks at public policy choices through a human lens. It maps out how changes in structural rules impact the daily routines of individuals and families, while actively highlighting the existing strengths of our neighborhoods.
@@ -42,4 +42,4 @@ This module looks at public policy choices through a human lens. It maps out how
 ### Sources and References
 *   **Data Anchor Link:** Human layer indicators pulled dynamically from the [Active System Context File](../current-event-context.html).
 
-[← Back to Toolkit Hub](../index.html)
+[← Back to Toolkit Hub](../)
