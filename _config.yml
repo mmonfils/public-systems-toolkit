@@ -8,7 +8,7 @@ url: "https://mmonfils.github.io"
 baseurl: "/public-systems-toolkit"
 
 # Navigation & Build Management
-permalink: /:path/
+permalink: /:path/:basename:output_ext
 markdown: kramdown
 sass:
   style: :compressed
