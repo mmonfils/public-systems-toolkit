@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Person-in-Environment Assessment
-description: Evaluating individual and family impacts within the structural environment alongside community strengths.
 ---
 
 <!-- 

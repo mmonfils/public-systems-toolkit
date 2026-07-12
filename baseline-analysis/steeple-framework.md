@@ -1,7 +1,5 @@
 ---
 layout: default
-title: STEEPLE Environmental Assessment
-description: Dissecting macro-environmental variables and foundational public needs.
 ---
 
 <!-- 

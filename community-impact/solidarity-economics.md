@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Cooperative Livelihoods and Solidarity Economics
-description: Reviewing non-exploitative, community-centered economic alternatives and resource solidarity structures.
 ---
 
 <!-- 

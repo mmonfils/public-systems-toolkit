@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Empathetic Communication Frameworks
-description: Organizing listening-based engagement scripts and structured digital advocacy workflows.
 ---
 
 <!-- 

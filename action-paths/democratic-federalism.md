@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Decentralized Governance Systems
-description: Reviewing localized public decision-making networks and democratic federalism frameworks.
 ---
 
 <!-- 

@@ -1,7 +1,5 @@
 ---
 layout: default
-title: OSINT Capital Mapping
-description: Tracking open-source intelligence records, public finance paths, and institutional funding flows.
 ---
 
 <!-- 

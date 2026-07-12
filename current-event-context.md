@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Active System Context
-description: Centralized data ledger for tracking active primary source records and community signals.
 ---
 
 <!-- 

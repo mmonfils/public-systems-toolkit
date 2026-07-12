@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Administrative Friction and Systems Review
-description: Diagnosing systemic bottlenecks, institutional red tape, and public system feedback loops.
 ---
 
 <!-- 
